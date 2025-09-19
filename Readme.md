@@ -167,10 +167,6 @@ Response format:
 }
 ```
 
-## License
-
-[Add your license information here]
-
 ## Author
 
-[Add your name/organization here]
+[Harsh_K]
