@@ -101,6 +101,12 @@ source myenv/bin/activate
 pip install django tensorflow keras nltk numpy pandas
 ```
 
+4. Deactivate the Environment:
+```bash
+deactivate
+
+```
+
 ## Running the Application
 1. Start the Django development server:
 ```bash
